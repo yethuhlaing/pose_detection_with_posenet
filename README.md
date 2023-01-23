@@ -5,6 +5,9 @@ Pose estimation is one of the computer vision techniques that detect human figur
 I still need to develop the User Interface and so this project is on going.
 ## Reference 
 tutorial:  https://www.youtube.com/watch?v=PyxsziqatFE 
+
 TensorFlow Js: https://www.tensorflow.org/js
-Drawing Utilities: https://github.com/tensorflow/tfjs-mo...
-React Webcam: https://www.npmjs.com/package/react-w...
+
+Drawing Utilities: https://github.com/tensorflow/tfjs-models/tree/master/pose-detection
+
+React Webcam: https://www.npmjs.com/package/react-webcam
